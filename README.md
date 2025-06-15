@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redf0x1&label=Profile%20views&color=0e75b6&style=flat" alt="redf0x1" />
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d1d272d09d389c21396ce846840541438774d64b12e927f9088f27b95cb6f384/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4b7572696d757a6f6e416b756d61266c6162656c3d50726f66696c65253230566973697473267374796c653d666f722d7468652d6261646765"><img alt="Visitors" src="https://camo.githubusercontent.com/d1d272d09d389c21396ce846840541438774d64b12e927f9088f27b95cb6f384/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4b7572696d757a6f6e416b756d61266c6162656c3d50726f66696c65253230566973697473267374796c653d666f722d7468652d6261646765" data-canonical-src="https://komarev.com/ghpvc/?username=redf0x1&amp;label=Profile%20Visits&amp;style=for-the-badge" style="max-width: 100%;"></a>
 </p>
 
 ---
