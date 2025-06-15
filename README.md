@@ -9,6 +9,10 @@
   </h3>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=redf0x1&label=Profile%20views&color=0e75b6&style=flat" alt="redf0x1" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me:
@@ -32,7 +36,7 @@
   <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mql5.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/metatrader-5.png" alt="mql5" width="40" height="40"/> </a>
+  <a href="https://www.mql5.com" target="_blank" rel="noreferrer"> <img src="https://c.mql5.com/i/mql5-logo.png" alt="mql5" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -87,9 +91,13 @@
       <div align="center">
         The official companion app for the Discord to Telegram forwarding service.
         <br/><br/>
+        <a href="https://apps.apple.com/us/app/d2t-auto-forward-message/id6743234921">
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
+        </a>
         <a href="https://play.google.com/store/apps/details?id=com.autoforward.dc2tele">
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="55">
         </a>
+        
       </div>
     </td>
   </tr>
